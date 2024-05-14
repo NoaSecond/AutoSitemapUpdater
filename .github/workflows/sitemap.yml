@@ -26,5 +26,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add sitemap.xml
-          git commit -m "Generate sitemap.xml" || true
+          git commit -m ":construction_worker: Update sitemap.xml" || true
           git push origin main
