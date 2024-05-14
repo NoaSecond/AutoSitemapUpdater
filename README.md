@@ -26,3 +26,17 @@ To set up AutoSitemapUpdater for your project, follow these steps:
 6. Don't forget to click on `Save` button below.
 
 That's it! With these simple setup instructions, AutoSitemapUpdater will handle the rest, keeping your sitemap.xml file up to date with each commit.
+
+## Contributing
+
+If you would like to contribute to this project, please follow these guidelines:
+
+1. Fork the repository
+2. Create a new branch: `git checkout -b my-feature`
+3. Make your changes and commit them: `git commit -am 'Add some feature'`
+4. Push the branch to your forked repository: `git push origin my-feature`
+5. Submit a pull request
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
