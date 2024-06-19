@@ -27,5 +27,5 @@ jobs:
           git config --local user.name "GitHub Action"
           git add sitemap.xml
           git commit -m ":construction_worker: Update sitemap.xml" || true
-          git pull origin main
+          git pull --rebase
           git push origin main
